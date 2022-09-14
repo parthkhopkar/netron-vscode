@@ -3,6 +3,7 @@
   "displayName": "netron-vscode",
   "description": "Netron for VS Code",
   "version": "0.0.1",
+  "extensionKind": ["workspace"],
   "engines": {
     "vscode": "^1.71.0"
   },
