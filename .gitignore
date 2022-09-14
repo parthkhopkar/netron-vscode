@@ -7,3 +7,11 @@ Thumbs.db
 tsconfig.lsif.json
 *.lsif
 *.db
+.vscode/**
+.vscode-test/**
+test/**
+.yarnrc
+vsc-extension-quickstart.md
+**/jsconfig.json
+**/*.map
+**/.eslintrc.json
